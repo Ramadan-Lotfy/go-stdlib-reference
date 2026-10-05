@@ -1,0 +1,10 @@
+# Binaries and build output
+*.exe
+*.test
+*.out
+/bin/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
